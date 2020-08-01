@@ -1,0 +1,32 @@
+{
+  "name": "tailwind-next-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesSingleton/tailwind-next-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesSingleton/tailwind-next-example/issues"
+  },
+  "homepage": "https://github.com/JamesSingleton/tailwind-next-example#readme",
+  "dependencies": {
+    "next": "^9.5.1",
+    "postcss-nested": "^4.2.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "tailwindcss": "^1.6.0"
+  },
+  "devDependencies": {
+    "postcss-loader": "^3.0.0"
+  }
+}
