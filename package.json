@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/JamesSingleton/tailwind-next-example#readme",
   "dependencies": {
-    "next": "^9.5.1",
+    "next": "^9.5.4",
     "postcss-nested": "^4.2.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
